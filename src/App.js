@@ -1,5 +1,5 @@
 import { React } from "react";
-import { Pets } from "./Pets";
+import { Pets } from "./pets";
 import './App.css';
 
 function App() {
